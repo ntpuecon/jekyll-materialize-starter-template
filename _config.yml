@@ -1,4 +1,5 @@
 title: 2017 經濟播客競賽
+headtitle: 經濟播客競賽
 author: 國立臺北大學。經濟學系
 email: mtlin@gm.ntup.edu.tw
 description: > # this means to ignore newlines until "baseurl:"
@@ -6,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 twitter_username: macrod68
 github_username:  macrod68
+facebook_pagename: ntpu.econ.podcast.champ.2017
 
 sass:
     style: compressed

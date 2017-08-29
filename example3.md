@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Table
+title: 課程
 permalink: /table/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
 <div class="section">
-    <h5>Borderless Table</h5> 
+    <h5>Borderless Table</h5>
     <div class="row">
           <div class="col s12">
             <table>
@@ -46,7 +46,7 @@ permalink: /table/
 </div>
 <div class="divider"></div>
 <div class="section">
-    <h5>Bordered Table</h5> 
+    <h5>Bordered Table</h5>
     <div class="row">
           <div class="col s12">
             <table class="bordered">
@@ -85,7 +85,7 @@ permalink: /table/
 </div>
 <div class="divider"></div>
 <div class="section">
-    <h5>Striped Table</h5> 
+    <h5>Striped Table</h5>
     <div class="row">
           <div class="col s12">
             <table class="striped">
@@ -124,7 +124,7 @@ permalink: /table/
 </div>
 <div class="divider"></div>
 <div class="section">
-    <h5>Highlight Table</h5> 
+    <h5>Highlight Table</h5>
     <div class="row">
           <div class="col s12">
             <table class="highlight">
@@ -163,7 +163,7 @@ permalink: /table/
 </div>
 <div class="divider"></div>
 <div class="section">
-    <h5>Responsive Table</h5> 
+    <h5>Responsive Table</h5>
     <div class="row">
           <div class="col s12">
             <table class="responsive-table">

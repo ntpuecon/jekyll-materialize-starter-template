@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Carousel
+title: 作品上傳
 permalink: /carousel/
 ---
 
