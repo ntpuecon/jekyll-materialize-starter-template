@@ -2,4 +2,4 @@
 layout: home
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+活動即將開始
