@@ -1,54 +1,42 @@
 ---
 layout: page
 title: 規則
-permalink: /Buttoms/
+permalink: /Rules/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-<div class="section">
-    <h5>Raised</h5>
+### 主旨
+為培養本校經濟系學生分析及多元呈現能力，本競賽以影片形式為限，鼓勵學生以生動短片方式呈現經濟議題的介紹及分析。
 
-    <div class="row">
-          <div class="col s12">
-                <a class="waves-effect waves-light btn">button</a>
-                <a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>button</a>
-                <a class="waves-effect waves-light btn"><i class="material-icons right">cloud</i>button</a>
-          </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Floating</h5>
+### 參賽資格
+所有本校經濟系主修及雙主修之學士班、進修學士班及碩士班在學學生
+符合資格同學皆可組隊參加。
+所有組員必須符合活動參賽資格，且至少一位為經濟系主修學生。
+每組最多4名學生。
 
-    <div class="row">
-            <div class="col s12">
-                <a class="btn-floating btn-large waves-effect waves-light red"><i class="material-icons">add</i></a>
-            </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Large</h5>
+### 評分標準
+議題深度: 50% (清楚、有邏輯及創意）   
+呈現方式: 35% (具專業質感、訊息傳達容易吸收)  
+片頭片尾: 15% (吸引人注意、美觀)  
+經濟系教師評分佔70%，學生票選佔30%。  
 
-    <div class="row">
-          <div class="col s12">
-                <a class="waves-effect waves-light btn-large">Button</a>
-                <a class="waves-effect waves-light btn-large"><i class="material-icons left">cloud</i>button</a>
-                <a class="waves-effect waves-light btn-large"><i class="material-icons right">cloud</i>button</a>
-          </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Disabled</h5>
+### 作品格式
+影片總時長不得超過6分鐘。  
+影片畫質至少720p。  
+影片必須包含片頭、主體內容、及片尾三部分，缺一不可。  
+作品自行上傳Youtube，並設定為公開。  
+Youtube說明部分須註明「團隊名稱、作品名稱、作品簡介、資料來源」。  
+作品限以「Youtube網址」方式繳交。  
 
-    <div class="row">
-        <div class="col s12">
-                <a class="btn-large disabled">Button</a>
-                <a class="btn disabled">Button</a>
-                <a class="btn-flat disabled">Button</a>
-                <a class="btn-floating disabled"><i class="material-icons">add</i></a>
-        </div>
-    </div>
-</div>
+### Q＆A
+請寄email 至 mtlin@gm.ntpu.edu.tw    
+郵件標題請寫：播客競賽－ Q&A  
+或留言於 https://www.facebook.com/ntpu.econ.podcast.champ.2017  
+
+### 主辦單位
+國立臺北大學 經濟學系    
+E.Major Taiwan
+
+### 贊助單位
+國立臺北大學 經濟學系系友會

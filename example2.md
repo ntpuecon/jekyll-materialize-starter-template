@@ -1,53 +1,17 @@
 ---
 layout: page
 title: 時程
-permalink: /css/
+permalink: /timetable/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-<div class="section">
-    <h5>Shadow</h5>
-    <div class="row">
-              <div class="col s12 m4 l2">
-                <p class="z-depth-0 shadow-demo"></p>
-              </div>
-              <div class="col s12 m4 l2">
-                <p class="z-depth-1 shadow-demo"></p>
-              </div>
-              <div class="col s12 m4 l2">
-                <p class="z-depth-2 shadow-demo"></p>
-              </div>
-              <div class="col s12 m4 l2">
-                <p class="z-depth-3 shadow-demo"></p>
-              </div>
-              <div class="col s12 m4 l2">
-                <p class="z-depth-4 shadow-demo"></p>
-              </div>
-              <div class="col s12 m4 l2">
-                <p class="z-depth-5 shadow-demo"></p>
-              </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Columns</h5>
-    <div class="row">
-            <div class="col grid-example s12 blue lighten-1"><span class="flow-text">s12</span></div>
-            <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">s12 m4 l2</span></div>
-            <div class="col grid-example s12 m4 l8 teal lighten-1"><span class="flow-text">s12 m4 l8</span></div>
-            <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">s12 m4 l2</span></div>
-            <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
-            <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
-            <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
-            <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Offset</h5>
-    <div class="row">
-            <div class="col s12 grid-example"><span class="flow-text">This div is 12-columns wide on all screen sizes</span></div>
-            <div class="col s6 offset-s6 grid-example"><span class="flow-text">6-columns (offset-by-6)</span></div>
-    </div>
-</div>
+報名日期：即日起－2017/10/6   
+於下列網址報名：[https://goo.gl/forms/vAD1OE9yiONnz5h32](https://goo.gl/forms/vAD1OE9yiONnz5h32)  
+作品上傳截止日：2017/12/10  
+Youtube網址請寄：[https://goo.gl/forms/QUGOV6bWsPtlQr8i1](https://goo.gl/forms/QUGOV6bWsPtlQr8i1)  
+作品展示期間：2017/12/12－12/15  
+得獎結果公佈：2017/12/19  
+頒獎日期：另行公佈  
+
+
