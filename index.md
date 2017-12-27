@@ -4,7 +4,8 @@ layout: home
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ihCSLDF0De8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 #### Youtube劇院
-12/27 晚上10點 公佈劇院網址
+
+<a href="https://www.youtube.com/watch?v=8Pya7Qp5nAM&list=PLOVwDEu1EbN1pcb-QrvWreBr23hR3bDlU" id="download-button" class="btn-large waves-effect waves-light orange" target="_blank"> 點我進入Youtube影城 </a>
 
 <br>
 <br>
