@@ -1,21 +1,25 @@
 title: 2018 經濟播客競賽
 headtitle: 經濟播客競賽
+
 registrationurl: https://goo.gl/forms/vAD1OE9yiONnz5h32
+votingurl: https://goo.gl/forms/j9ETA5HHujG0QjYj2
 uploadurl: https://docs.google.com/forms/d/e/1FAIpQLSdjp6kWOWSgZItYPYR_C101Jfl4V3Bxpcc6iZyiJ6xuZk5EIw/viewform?embedded=true
 mainhosturl: http://www.ntpu.edu.tw/econ/
 cohosturl: https://www.facebook.com/Emajortaiwanforu/
 sponsorurl: https://www.facebook.com/groups/518140268277463/
+google_analytics: UA-106134356-1
 
 registrationdeadline: 2018/11/2 12:00
 uploaddeadline: 2018/12/20
 exhibitionperiod: 2018/12/24－12/28
 outcomeannouncedate: 2019/1/3
+
 awarddate: 另行公佈
 
 author: 國立臺北大學。經濟學系
 email: mtlin@gm.ntup.edu.tw
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
+  2017 國立臺北大學第三屆經濟播客影展 線上欣賞好片，投票再抽神祕禮物。
 
 twitter_username: macrod68
 github_username:  macrod68

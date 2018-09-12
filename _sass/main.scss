@@ -65,3 +65,21 @@ h1.page-title {
 p.rss-subscribe {
     margin: 0;
 }
+.share-page {
+    text-align: center;
+    background: #29b6f6;
+    color: #29b6f6;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5 * 2 0;
+
+    a {
+        font-weight: 700;
+        color: #fff;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed #fff;
+        }
+    }
+}
