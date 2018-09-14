@@ -9,9 +9,9 @@ permalink: /Past/
 第一名
 <a href="https://www.youtube.com/watch?v=4PvuCMxDLh8&index=5&list=PLOVwDEu1EbN1pcb-QrvWreBr23hR3bDlU" target="_blank">夾娃娃機是在紅什麼？Catch up with the claw machine trend by 醉後的最後</a>  
 第二名
-<a href="https://www.youtube.com/watch?v=8Pya7Qp5nAM&index=2&list=PLOVwDEu1EbN1pcb-QrvWreBr23hR3bDlU" target="_blank">Financial Crisis by 我要拿獎金</a>  
+<a href="https://www.youtube.com/watch?v=9_mvm2R8fiQ&index=9&list=PLOVwDEu1EbN1pcb-QrvWreBr23hR3bDlU" target="_blank">電子支付 by 全球暖樺</a>  
 第三名
-<a href="https://www.youtube.com/watch?v=kSLmJX_6wL8&index=8&list=PLOVwDEu1EbN1pcb-QrvWreBr23hR3bDlU" target="_blank">縮表經濟學 by 蜻蜓隊</a>
+<a href="https://www.youtube.com/watch?v=8Pya7Qp5nAM&index=2&list=PLOVwDEu1EbN1pcb-QrvWreBr23hR3bDlU" target="_blank">Financial Crisis by 我要拿獎金</a>  
 
 
 #### 2016
