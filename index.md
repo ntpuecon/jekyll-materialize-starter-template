@@ -5,7 +5,7 @@ layout: home
 
 #### Youtube劇院
 
-<a href="https://www.youtube.com/watch?v=8Pya7Qp5nAM&list=PLOVwDEu1EbN1pcb-QrvWreBr23hR3bDlU" id="download-button" class="btn-large waves-effect waves-light orange" target="_blank"> 點我進入Youtube影城 </a>
+<a href="https://www.youtube.com/watch?v=8Pya7Qp5nAM&list=PLOVwDEu1EbN1pcb-QrvWreBr23hR3bDlU" id="download-button" class="btn-large waves-effect waves-light orange accent-5" target="_blank"> 點我進入Youtube影城 </a>
 
 <br>
 <br>
