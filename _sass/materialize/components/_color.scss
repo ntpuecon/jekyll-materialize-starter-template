@@ -272,7 +272,8 @@ $orange: (
   "accent-1":    #ffd180,
   "accent-2":    #ffab40,
   "accent-3":    #ff9100,
-  "accent-4":    #ff6d00
+  "accent-4":    #ff6d00,
+  "accent-5":    #e0a400,
 );
 
 $deep-orange: (
@@ -409,4 +410,3 @@ $colors: (
   @warn "Unknown `#{$color}` - `#{$type}` in $colors.";
   @return null;
 }
-

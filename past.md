@@ -4,6 +4,16 @@ title: 歷年得獎作品
 permalink: /Past/
 ---
 
+#### 2017
+
+第一名
+<a href="https://www.youtube.com/watch?v=4PvuCMxDLh8&index=5&list=PLOVwDEu1EbN1pcb-QrvWreBr23hR3bDlU" target="_blank">夾娃娃機是在紅什麼？Catch up with the claw machine trend by 醉後的最後</a>  
+第二名
+<a href="https://www.youtube.com/watch?v=9_mvm2R8fiQ&index=9&list=PLOVwDEu1EbN1pcb-QrvWreBr23hR3bDlU" target="_blank">電子支付 by 全球暖樺</a>  
+第三名
+<a href="https://www.youtube.com/watch?v=8Pya7Qp5nAM&index=2&list=PLOVwDEu1EbN1pcb-QrvWreBr23hR3bDlU" target="_blank">Financial Crisis by 我要拿獎金</a>  
+
+
 #### 2016
 第一名
 <a href="https://www.youtube.com/watch?v=tqX7fMnvWlo&index=6&list=PLOVwDEu1EbN2-i8PZ0fsyJGy5TcArPxF6" target="_blank">日本負利率政策初探 by YEEEE</a>  
@@ -19,5 +29,3 @@ permalink: /Past/
 <a href="https://www.youtube.com/watch?v=tvXLI7eabK4&list=PLOVwDEu1EbN2-d1Mif_GD6Grm69gCEf9u&index=7" target="_blank">亞投行設立與高鐵建設對各國的經濟影響 by POKOPOKO</a>  
 第三名
 <a href="https://www.youtube.com/watch?v=-HCk3DehaFA&index=6&list=PLOVwDEu1EbN2-d1Mif_GD6Grm69gCEf9u" target="_blank">Who is the winner？歐洲難民潮 by 公公經濟團</a>  
-
-
