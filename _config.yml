@@ -19,11 +19,11 @@ awarddate: 另行公佈
 author: 國立臺北大學。經濟學系
 email: mtlin@gm.ntup.edu.tw
 description: > # this means to ignore newlines until "baseurl:"
-  2017 國立臺北大學第三屆經濟播客影展 線上欣賞好片，投票再抽神祕禮物。
+  2018 國立臺北大學第三屆經濟播客影展 線上欣賞好片，投票再抽神祕禮物。
 
 twitter_username: macrod68
 github_username:  macrod68
-facebook_pagename: ntpu.econ.podcast.champ.2017
+facebook_pagename: ntpueconpodcastcompetition
 
 sass:
     style: compressed
